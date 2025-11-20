@@ -31,7 +31,14 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+Verify this feature design complies with the four core constitutional principles:
+
+- [ ] **Code Quality Standards**: Architecture follows SOLID principles, DRY, separation of concerns; coding standards defined; documentation plan in place
+- [ ] **Testing Standards**: Test strategy defined (unit/integration/e2e); test coverage targets established; TDD approach identified for critical components
+- [ ] **User Experience Consistency**: UI/UX patterns identified; accessibility requirements documented; responsive design approach defined; error handling strategy documented
+- [ ] **Performance Requirements**: Performance targets defined (load times, API latency); optimization strategy documented; caching approach identified; monitoring plan in place
+
+**Violations**: Document any constitutional violations below with justification (e.g., MVP phase deferring certain requirements)
 
 ## Project Structure
 
