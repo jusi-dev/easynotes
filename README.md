@@ -4,7 +4,7 @@
 
 ## About This Project
 
-This is a demonstration of [SpecKit](https://www.speckit.ai) workflow. The entire codebase was generated from natural language descriptions—**zero manual coding by humans**. The goal: prove AI can build production-ready applications from specs alone.
+This is a demonstration of [SpecKit](https://github.com/github/spec-kit) workflow. The entire codebase was generated from natural language descriptions—**zero manual coding by humans**. The goal: prove AI can build production-ready applications from specs alone.
 
 ## What It Does
 
@@ -59,4 +59,4 @@ MIT
 
 ---
 
-**Built with:** [SpecKit](https://www.speckit.ai) | **Generated:** 100% by AI
+**Built with:** [SpecKit](https://github.com/github/spec-kit) | **Generated:** 100% by AI
