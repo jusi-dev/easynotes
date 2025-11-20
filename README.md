@@ -2,6 +2,8 @@
 
 > **SpecKit Demo Project** - A fully functional note-taking app built entirely by AI using natural language specifications.
 
+![EasyNotes Demo](demo-picture.png)
+
 ## About This Project
 
 This is a demonstration of [SpecKit](https://github.com/github/spec-kit) workflow. The entire codebase was generated from natural language descriptions—**zero manual coding by humans**. The goal: prove AI can build production-ready applications from specs alone.
