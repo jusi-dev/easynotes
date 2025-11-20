@@ -140,9 +140,15 @@ Through natural conversation:
 - Fixed validation bugs
 - Enhanced modal styling
 
-**Total Time:** ~2 hours from idea to production-ready app
-**Human Code Written:** 0 lines
+**Total Time:** ~2 hours from idea to production-ready app  
+**Human Code Written:** 0 lines  
 **AI Commands Used:** 5 SpecKit commands + conversational refinements
+
+### Final Result
+
+![EasyNotes Application](end-usage.png)
+
+*The finished application with Apple-inspired liquid glass design, running in production.*
 
 ## License
 
