@@ -66,8 +66,8 @@ principles should guide technical decisions and implementation choices.
 ```
 
 **Output:**
-- ✅ `constitution.md` - Project principles and governance
-- ✅ `plan-template.md` - Updated with principles
+- ✅ [`constitution.md`](.specify/memory/constitution.md) - Project principles and governance
+- ✅ [`plan-template.md`](.specify/templates/plan-template.md) - Updated with principles
 
 ### 2️⃣ Specification (`/speckit.specify`)
 
@@ -88,8 +88,8 @@ a database. Keep the UI simple and easy to use.
 ```
 
 **Output:**
-- ✅ `spec.md` - Complete feature specification
-- ✅ `checklists/requirements.md` - Detailed requirements
+- ✅ [`spec.md`](specs/001-note-taking-core/spec.md) - Complete feature specification
+- ✅ [`checklists/requirements.md`](specs/001-note-taking-core/checklists/requirements.md) - Detailed requirements
 
 **Optional:** `/speckit.clarify` - Ask AI to clarify unclear requirements
 
@@ -102,11 +102,11 @@ For the database we will use Postgres together with Prisma.
 ```
 
 **Output:**
-- ✅ `research.md` - Technology research
-- ✅ `plan.md` - Implementation plan
-- ✅ `data-model.md` - Database schema design
-- ✅ `contracts/server-actions.md` - API contracts
-- ✅ `quickstart.md` - Setup guide
+- ✅ [`research.md`](specs/001-note-taking-core/research.md) - Technology research
+- ✅ [`plan.md`](specs/001-note-taking-core/plan.md) - Implementation plan
+- ✅ [`data-model.md`](specs/001-note-taking-core/data-model.md) - Database schema design
+- ✅ [`contracts/server-actions.md`](specs/001-note-taking-core/contracts/server-actions.md) - API contracts
+- ✅ [`quickstart.md`](specs/001-note-taking-core/quickstart.md) - Setup guide
 
 ### 4️⃣ Task Breakdown (`/speckit.tasks`)
 
@@ -115,7 +115,7 @@ For the database we will use Postgres together with Prisma.
 ```
 
 **Output:**
-- ✅ `tasks.md` - Dependency-ordered implementation tasks
+- ✅ [`tasks.md`](specs/001-note-taking-core/tasks.md) - Dependency-ordered implementation tasks
 
 ### 5️⃣ Implementation (`/speckit.implement`)
 
