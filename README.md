@@ -4,6 +4,32 @@
 
 ![EasyNotes Demo](demo-picture.png)
 
+## Background Story
+
+At [Zebbra](https://zebbra.ch), we had a company discussion about AI usage in development. The conversation revealed a critical challenge: **AI-assisted development can quickly become messy and unsustainable** without proper structure.
+
+During a [lightning talk by Kusi](https://github.com/zebbra/lightning-talks/tree/main/talks/2025-11-11%20-%20AI%20mental%20model), he presented a mental model showing that **structure is essential for sustainable AI workflows**. This sparked the question: *Can we build production-ready applications using a structured, spec-driven approach with AI?*
+
+![AI Workflow Structure](https://github.com/zebbra/lightning-talks/raw/main/talks/2025-11-11%20-%20AI%20mental%20model/dev%20team%20whiteboard%20-%20Autonomy%20&%20Structure.jpg)
+
+*Visual from Kusi's talk showing the balance between autonomy and structure needed for sustainable AI development.*
+
+### The Experiment
+
+This project serves as a **proof of concept** to test whether SpecKit's structured approach can:
+- ✅ Keep AI focused and on-track
+- ✅ Generate maintainable, quality code
+- ✅ Produce production-ready applications
+- ✅ Work without human-written code
+
+### Key Findings
+
+**✅ It Works!** The structured approach successfully kept AI from getting lost in its own context. The constitution, specifications, and planning documents provided the guardrails needed for coherent code generation.
+
+**⚠️ Trade-off:** While the structure enables sustainable AI development, it requires **significant upfront setup time**. Creating comprehensive specs, plans, and task breakdowns is time-intensive, but pays off in code quality and maintainability.
+
+**💡 Insight:** Structure is not overhead—it's the foundation that makes AI-assisted development sustainable at scale.
+
 ## About This Project
 
 This is a demonstration of [SpecKit](https://github.com/github/spec-kit) workflow. The entire codebase was generated from natural language descriptions—**zero manual coding by humans**. The goal: prove AI can build production-ready applications from specs alone.
